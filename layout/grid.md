@@ -1,5 +1,2 @@
-Min/Max
-
-<figure class="video_container">
-<iframe src="https://codepen.io/tobiasgm/pen/YBONZN"></iframe>
-</figure>
+# Min/Max
+Codepen <a href='https://codepen.io/tobiasgm/pen/YBONZN'>grid-repeat-minmax-example</a>.
