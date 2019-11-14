@@ -1,5 +1,3 @@
 Min/Max
 
-<figure class="video_container">
-<iframe src="https://codepen.io/tobiasgm/pen/YBONZN"></iframe>
-</figure>
+<a href="https://codepen.io/tobiasgm/pen/YBONZN">Grid repeat minmax example</a>
