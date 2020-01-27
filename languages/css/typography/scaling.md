@@ -40,3 +40,7 @@ https://css-tricks.com/snippets/css/fluid-typography/
 
 Resizing engine - https://github.com/twbs/rfs
 https://github.com/liamdefty/sass-fluid-type
+
+# Discussion
+
+https://betterwebtype.com/articles/2019/05/14/the-state-of-fluid-web-typography/
